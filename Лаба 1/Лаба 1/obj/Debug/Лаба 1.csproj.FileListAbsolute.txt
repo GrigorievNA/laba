@@ -1,0 +1,4 @@
+c:\users\777\documents\visual studio 2010\Projects\Лаба 1\Лаба 1\bin\Лаба 1.dll
+c:\users\777\documents\visual studio 2010\Projects\Лаба 1\Лаба 1\bin\Лаба 1.pdb
+c:\users\777\documents\visual studio 2010\Projects\Лаба 1\Лаба 1\obj\Debug\Лаба 1.dll
+c:\users\777\documents\visual studio 2010\Projects\Лаба 1\Лаба 1\obj\Debug\Лаба 1.pdb
